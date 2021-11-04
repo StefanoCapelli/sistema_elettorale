@@ -1,6 +1,6 @@
 /**
  * PROGETTO INGEGNERIA DEL SOFTWARE: ASSIGNMENT 2
- * GRUPPO: CAPELLI STEFANO 922842 	 			LEONCINI LORENZO 930936	
+ * GRUPPO: CAPELLI STEFANO 922842 	 				LEONCINI LORENZO 930936	
  *	 
  */
 package sistema_elettorale;
@@ -22,6 +22,7 @@ public class Scrutatore {
 	 */
 	public Scrutatore(int iDscrutatore) {
 		super();
+		//variabile elezione
 		IDscrutatore = iDscrutatore;
 	}
 		
