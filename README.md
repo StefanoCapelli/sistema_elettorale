@@ -1,0 +1,3 @@
+# sistema_elettorale
+
+CAPELLI STEFANO & LEONCINI LORENZO
